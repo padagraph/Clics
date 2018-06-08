@@ -1,0 +1,1285 @@
+@Concept: #id, key, label, concept, body_part, frequency
+0, 6.11, put on (clothes), put on (clothes), 0.0, 279.0
+1, 6.13, tailor, tailor, 0.0, 167.0
+2, 6.12, clothing/ clothes, clothing/ clothes, 0.0, 306.0
+3, 10.852, row (vb), row (vb), 0.0, 207.0
+4, 9.25, ax, ax, 0.0, 241.0
+5, 10.851, paddle (noun), paddle (noun), 0.0, 172.0
+6, 4.191, spine, spine, 1.0, 245.0
+7, 9.24, scissors/ shears, scissors/ shears, 0.0, 203.0
+8, 5.71, fruit, fruit, 0.0, 234.0
+9, 5.76, grape, grape, 0.0, 149.0
+10, 5.77, nut, nut, 0.0, 181.0
+11, 3.91, firefly, firefly, 0.0, 186.0
+12, 15.212, sniff, sniff, 0.0, 230.0
+13, 2.38, married man, married man, 0.0, 177.0
+14, 5.78, olive, olive, 0.0, 90.0
+15, 5.79, oil, oil, 0.0, 209.0
+16, 4.342, thumb, thumb, 1.0, 219.0
+17, 4.321, wrist, wrist, 1.0, 202.0
+18, 4.732, conceive, conceive, 0.0, 187.0
+19, 10.451, limp, limp, 0.0, 225.0
+20, 12.46, west, west, 0.0, 245.0
+21, 12.47, north, north, 0.0, 217.0
+22, 12.44, far (adv), far (adv), 0.0, 269.0
+23, 12.45, east, east, 0.0, 242.0
+24, 10.48, come, come, 0.0, 283.0
+25, 12.43, near (adv), near (adv), 0.0, 304.0
+26, 12.41, right (side), right (side), 0.0, 446.0
+27, 10.44, dance, dance, 0.0, 258.0
+28, 10.45, walk, walk, 0.0, 322.0
+29, 10.46, run, run, 0.0, 284.0
+30, 10.47, go, go, 0.0, 331.0
+31, 10.41, creep/ crawl, creep/ crawl, 0.0, 256.0
+32, 12.48, south, south, 0.0, 226.0
+33, 10.43, jump/ leap, jump/ leap, 0.0, 302.0
+34, 8.62, beech, beech, 0.0, 106.0
+35, 8.63, birch, birch, 0.0, 120.0
+36, 8.61, oak, oak, 0.0, 136.0
+37, 8.66, acorn, acorn, 0.0, 105.0
+38, 8.67, vine, vine, 0.0, 222.0
+39, 8.64, pine, pine, 0.0, 144.0
+40, 8.65, fir, fir, 0.0, 128.0
+41, 8.68, tobacco, tobacco, 0.0, 235.0
+42, 1.352, tide, tide, 0.0, 125.0
+43, 14.47, today, today, 0.0, 252.0
+44, 14.71, month, month, 0.0, 218.0
+45, 4.412, nipple/ teat, nipple/ teat, 1.0, 251.0
+46, 3.97, crocodile/ alligator, crocodile/ alligator, 0.0, 221.0
+47, 19.12, one's native country, one's native country, 0.0, 193.0
+48, 12.56, small/ little, small/ little, 0.0, 340.0
+49, 21.47, perjury, perjury, 0.0, 142.0
+50, 11.34, release/ let go, release/ let go, 0.0, 258.0
+51, 11.32, find, find, 0.0, 270.0
+52, 11.33, lose, lose, 0.0, 264.0
+53, 11.31, seek/ look for, seek/ look for, 0.0, 267.0
+54, 2.1, person/ human being, person/ human being, 0.0, 319.0
+55, 3.832, mosquito, mosquito, 0.0, 246.0
+56, 3.831, sandfly (midge)/ gnat, sandfly (midge)/ gnat, 0.0, 250.0
+57, 4.96, mute, mute, 0.0, 219.0
+58, 10.13, turn around, turn around, 0.0, 279.0
+59, 4.212, eyebrow, eyebrow, 1.0, 235.0
+60, 6.77, earring, earring, 0.0, 233.0
+61, 12.74, crooked, crooked, 0.0, 287.0
+62, 10.12, turn over, turn over, 0.0, 286.0
+63, 4.214, eyelash, eyelash, 1.0, 235.0
+64, 5.75, fig, fig, 0.0, 131.0
+65, 4.91, tired/ weary, tired/ weary, 0.0, 311.0
+66, 19.36, noble/ nobleman, noble/ nobleman, 0.0, 153.0
+67, 2.34, marriage/ wedding, marriage/ wedding, 0.0, 283.0
+68, 19.32, king/ ruler, king/ ruler, 0.0, 256.0
+69, 19.33, queen, queen, 0.0, 162.0
+70, 19.31, rule/ govern, rule/ govern, 0.0, 216.0
+71, 4.11, body, body, 1.0, 271.0
+72, 15.46, quiet/ silence, quiet/ silence, 0.0, 311.0
+73, 15.45, loud, loud, 0.0, 242.0
+74, 15.44, sound/ noise, sound/ noise, 0.0, 335.0
+75, 13.103, fifteen, fifteen, 0.0, 182.0
+76, 15.42, listen, listen, 0.0, 234.0
+77, 15.41, hear, hear, 0.0, 250.0
+78, 14.491, day-before-yesterday, day-before-yesterday, 0.0, 204.0
+79, 15.38, acid/ sour, acid/ sour, 0.0, 258.0
+80, 15.39, brackish, brackish, 0.0, 159.0
+81, 18.33, admit/ confess, admit/ confess, 0.0, 228.0
+82, 6.39, dye, dye, 0.0, 215.0
+83, 1.324, foam, foam, 0.0, 238.0
+84, 20.51, fisherman, fisherman, 0.0, 214.0
+85, 2.63, son-in-law (of a man), son-in-law (of a man), 0.0, 229.0
+86, 15.36, salty, salty, 0.0, 225.0
+87, 15.37, bitter, bitter, 0.0, 250.0
+88, 15.35, sweet, sweet, 0.0, 242.0
+89, 18.74, rattle, rattle, 0.0, 173.0
+90, 2.51, uncle, uncle, 0.0, 252.0
+91, 2.53, nephew, nephew, 0.0, 276.0
+92, 2.52, aunt, aunt, 0.0, 259.0
+93, 2.55, cousin, cousin, 0.0, 346.0
+94, 2.54, niece, niece, 0.0, 271.0
+95, 2.57, descendants, descendants, 0.0, 221.0
+96, 2.56, ancestors, ancestors, 0.0, 243.0
+97, 1.58, storm, storm, 0.0, 262.0
+98, 1.59, rainbow, rainbow, 0.0, 245.0
+99, 3.98, turtle, turtle, 0.0, 247.0
+100, 4.98, intoxicated, intoxicated, 0.0, 273.0
+101, 18.51, write, write, 0.0, 240.0
+102, 17.242, study, study, 0.0, 242.0
+103, 3.92, butterfly, butterfly, 0.0, 235.0
+104, 1.51, sky, sky, 0.0, 256.0
+105, 1.52, sun, sun, 0.0, 245.0
+106, 16.67, lie/ tell lies, lie/ tell lies, 0.0, 286.0
+107, 1.54, star, star, 0.0, 247.0
+108, 1.55, lightning, lightning, 0.0, 250.0
+109, 1.56, thunder, thunder, 0.0, 261.0
+110, 3.95, frog, frog, 0.0, 248.0
+111, 21.39, prison/ jail, prison/ jail, 0.0, 214.0
+112, 21.38, fine, fine, 0.0, 155.0
+113, 4.19, back, back, 1.0, 267.0
+114, 4.18, tail, tail, 1.0, 264.0
+115, 4.13, flesh, flesh, 1.0, 244.0
+116, 4.12, skin/ hide, skin/ hide, 1.0, 329.0
+117, 21.33, convict (vb), convict (vb), 0.0, 148.0
+118, 21.32, condemn, condemn, 0.0, 173.0
+119, 21.35, guilty, guilty, 0.0, 176.0
+120, 21.34, acquit, acquit, 0.0, 161.0
+121, 21.37, penalty/ punishment, penalty/ punishment, 0.0, 216.0
+122, 16.251, smile, smile, 0.0, 210.0
+123, 3.65, fish, fish, 0.0, 248.0
+124, 3.63, mouse/ rat, mouse/ rat, 0.0, 348.0
+125, 3.62, cat, cat, 0.0, 224.0
+126, 3.61, dog, dog, 0.0, 262.0
+127, 4.87, physician, physician, 0.0, 238.0
+128, 8.98, mushroom, mushroom, 0.0, 248.0
+129, 5.49, stir/ mix, stir/ mix, 0.0, 313.0
+130, 9.14, bend, bend, 0.0, 314.0
+131, 9.15, fold, fold, 0.0, 297.0
+132, 9.16, tie/ bind, tie/ bind, 0.0, 312.0
+133, 12.232, divide, divide, 0.0, 245.0
+134, 9.11, do/ make, do/ make, 0.0, 299.0
+135, 9.12, work, work, 0.0, 269.0
+136, 8.96, fish poison (root), fish poison (root), 0.0, 94.0
+137, 8.531, plant (vb), plant (vb), 0.0, 252.0
+138, 9.19, rope/ cord, rope/ cord, 0.0, 305.0
+139, 12.8, up/ above, up/ above, 0.0, 292.0
+140, 4.281, nape of neck, nape of neck, 1.0, 234.0
+141, 4.68, shiver, shiver, 0.0, 275.0
+142, 4.69, bathe, bathe, 0.0, 260.0
+143, 4.66, defecate, defecate, 0.0, 299.0
+144, 4.67, have sexual intercourse, have sexual intercourse, 0.0, 272.0
+145, 12.3, down/ below, down/ below, 0.0, 277.0
+146, 4.65, urinate, urinate, 0.0, 270.0
+147, 12.5, inside/ in, inside/ in, 0.0, 273.0
+148, 12.4, before, before, 0.0, 248.0
+149, 12.7, under, under, 0.0, 221.0
+150, 12.6, outside, outside, 0.0, 232.0
+151, 5.43, lunch, lunch, 0.0, 150.0
+152, 7.24, key, key, 0.0, 166.0
+153, 2.48, grandson, grandson, 0.0, 272.0
+154, 10.413, crouch, crouch, 0.0, 223.0
+155, 20.54, fishnet, fishnet, 0.0, 217.0
+156, 20.55, fish trap, fish trap, 0.0, 161.0
+157, 20.56, bait, bait, 0.0, 166.0
+158, 20.45, retreat, retreat, 0.0, 209.0
+159, 20.52, fishhook, fishhook, 0.0, 217.0
+160, 20.53, fishing line, fishing line, 0.0, 172.0
+161, 17.49, way/ manner, way/ manner, 0.0, 253.0
+162, 17.48, try/ attempt, try/ attempt, 0.0, 249.0
+163, 11.17, keep/ retain, keep/ retain, 0.0, 257.0
+164, 17.41, intention/ purpose, intention/ purpose, 0.0, 267.0
+165, 5.47, sieve/ strain, sieve/ strain, 0.0, 283.0
+166, 17.43, doubt, doubt, 0.0, 209.0
+167, 7.33, chimney, chimney, 0.0, 173.0
+168, 17.45, need/ necessity, need/ necessity, 0.0, 270.0
+169, 17.44, suspect, suspect, 0.0, 196.0
+170, 17.47, difficult, difficult, 0.0, 248.0
+171, 17.46, easy, easy, 0.0, 237.0
+172, 10.22, raise/ lift, raise/ lift, 0.0, 292.0
+173, 5.45, supper, supper, 0.0, 165.0
+174, 13.106, thousand, thousand, 0.0, 162.0
+175, 8.21, plow, plow, 0.0, 201.0
+176, 12.42, left (side), left (side), 0.0, 245.0
+177, 4.42, udder, udder, 1.0, 209.0
+178, 10.49, go away/ depart, go away/ depart, 0.0, 295.0
+179, 10.26, shake, shake, 0.0, 322.0
+180, 4.43, navel, navel, 1.0, 239.0
+181, 12.353, edge, edge, 0.0, 342.0
+182, 12.352, pointed, pointed, 0.0, 263.0
+183, 5.25, oven, oven, 0.0, 197.0
+184, 5.24, bake, bake, 0.0, 212.0
+185, 5.27, kettle, kettle, 0.0, 197.0
+186, 5.26, pot/ cooking vessel, pot/ cooking vessel, 0.0, 284.0
+187, 5.21, cook, cook, 0.0, 281.0
+188, 5.23, roast/ fry, roast/ fry, 0.0, 349.0
+189, 5.22, boil (vb), boil (vb), 0.0, 281.0
+190, 15.31, taste, taste, 0.0, 240.0
+191, 3.38, kid, kid, 0.0, 177.0
+192, 7.421, pillow, pillow, 0.0, 221.0
+193, 7.422, blanket, blanket, 0.0, 248.0
+194, 4.47, womb, womb, 1.0, 247.0
+195, 4.351, thigh, thigh, 1.0, 248.0
+196, 4.352, calf of leg, calf of leg, 1.0, 208.0
+197, 12.78, square, square, 0.0, 179.0
+198, 12.77, cross, cross, 0.0, 177.0
+199, 12.76, corner, corner, 0.0, 244.0
+200, 12.75, hook, hook, 0.0, 227.0
+201, 4.213, eyelid, eyelid, 1.0, 218.0
+202, 12.73, straight, straight, 0.0, 266.0
+203, 4.215, blink, blink, 1.0, 238.0
+204, 12.71, flat, flat, 0.0, 272.0
+205, 10.42, slide/ slip, slide/ slip, 0.0, 286.0
+206, 20.33, helmet, helmet, 0.0, 154.0
+207, 6.61, pocket, pocket, 0.0, 198.0
+208, 6.62, button, button, 0.0, 194.0
+209, 6.63, pin, pin, 0.0, 179.0
+210, 4.24, mouth, mouth, 1.0, 258.0
+211, 4.591, dribble, dribble, 0.0, 208.0
+212, 7.27, wall, wall, 0.0, 239.0
+213, 7.26, floor, floor, 0.0, 240.0
+214, 7.25, window, window, 0.0, 209.0
+215, 4.464, buttocks, buttocks, 1.0, 292.0
+216, 7.23, lock (noun), lock (noun), 0.0, 180.0
+217, 7.22, door/ gate, door/ gate, 0.0, 341.0
+218, 7.21, room, room, 0.0, 225.0
+219, 2.95, you (plural), you (plural), 0.0, 267.0
+220, 2.94, we, we, 0.0, 241.0
+221, 2.96, they, they, 0.0, 302.0
+222, 2.91, I, I, 0.0, 289.0
+223, 2.93, he/she/it, he/she/it, 0.0, 405.0
+224, 2.92, you (singular), you (singular), 0.0, 333.0
+225, 10.614, carry-on-head, carry-on-head, 0.0, 177.0
+226, 2.461, old man, old man, 0.0, 274.0
+227, 13.9, nine, nine, 0.0, 158.0
+228, 13.10, ten, ten, 0.0, 166.0
+229, 10.252, catch (ball), catch (ball), 0.0, 240.0
+230, 10.612, carry-in-hand, carry-in-hand, 0.0, 209.0
+231, 10.613, carry-on-shoulder, carry-on-shoulder, 0.0, 238.0
+232, 19.72, prostitute, prostitute, 0.0, 236.0
+233, 9.32, stretch, stretch, 0.0, 278.0
+234, 8.52, hay, hay, 0.0, 178.0
+235, 4.852, bruise, bruise, 0.0, 205.0
+236, 14.41, day, day, 0.0, 244.0
+237, 14.42, night, night, 0.0, 249.0
+238, 14.43, dawn, dawn, 0.0, 294.0
+239, 4.856, boil (noun), boil (noun), 0.0, 259.0
+240, 14.45, noon/ midday, noon/ midday, 0.0, 239.0
+241, 14.46, evening, evening, 0.0, 246.0
+242, 7.131, garden-house, garden-house, 0.0, 137.0
+243, 14.48, tomorrow, tomorrow, 0.0, 238.0
+244, 14.49, yesterday, yesterday, 0.0, 232.0
+245, 11.78, wages, wages, 0.0, 226.0
+246, 11.79, earn, earn, 0.0, 197.0
+247, 2.511, mother's brother, mother's brother, 0.0, 223.0
+248, 2.512, father's brother, father's brother, 0.0, 241.0
+249, 5.91, mead, mead, 0.0, 124.0
+250, 5.84, honey, honey, 0.0, 224.0
+251, 5.93, beer, beer, 0.0, 169.0
+252, 5.94, fermented drink, fermented drink, 0.0, 222.0
+253, 5.97, egg, egg, 0.0, 240.0
+254, 8.35, threshing-floor, threshing-floor, 0.0, 145.0
+255, 8.34, thresh, thresh, 0.0, 195.0
+256, 8.31, sow, sow, 0.0, 238.0
+257, 8.33, sickle/ scythe, sickle/ scythe, 0.0, 244.0
+258, 8.32, mow/ reap, mow/ reap, 0.0, 246.0
+259, 9.43, carpenter, carpenter, 0.0, 167.0
+260, 12.541, span/ fathom, span/ fathom, 0.0, 161.0
+261, 4.853, swelling, swelling, 0.0, 306.0
+262, 21.51, steal, steal, 0.0, 275.0
+263, 1.73, cloud, cloud, 0.0, 273.0
+264, 8.69, smoke (tobacco), smoke (tobacco), 0.0, 229.0
+265, 13.24, half, half, 0.0, 259.0
+266, 3.44, mare, mare, 0.0, 172.0
+267, 3.58, nest, nest, 0.0, 242.0
+268, 3.56, goose, goose, 0.0, 154.0
+269, 13.23, part/ piece, part/ piece, 0.0, 310.0
+270, 21.18, judge (noun), judge (noun), 0.0, 176.0
+271, 2.251, young man (adolescent), young man (adolescent), 0.0, 284.0
+272, 3.52, cock/ rooster, cock/ rooster, 0.0, 211.0
+273, 8.6, tree, tree, 0.0, 268.0
+274, 11.77, hire, hire, 0.0, 182.0
+275, 11.69, tax/ tribute, tax/ tribute, 0.0, 196.0
+276, 3.29, lamb, lamb, 0.0, 192.0
+277, 8.83, citrus fruit, citrus fruit, 0.0, 136.0
+278, 8.84, banana tree, banana tree, 0.0, 171.0
+279, 4.854, itch, itch, 0.0, 239.0
+280, 3.23, cow, cow, 0.0, 177.0
+281, 3.22, ox, ox, 0.0, 167.0
+282, 3.21, bull, bull, 0.0, 197.0
+283, 4.855, blister, blister, 0.0, 238.0
+284, 3.26, ram, ram, 0.0, 185.0
+285, 3.25, sheep, sheep, 0.0, 200.0
+286, 3.24, calf, calf, 0.0, 210.0
+287, 18.71, flute, flute, 0.0, 212.0
+288, 5.122, raw, raw, 0.0, 254.0
+289, 16.48, proud, proud, 0.0, 227.0
+290, 18.72, drum, drum, 0.0, 212.0
+291, 2.24, female, female, 0.0, 233.0
+292, 2.39, married woman, married woman, 0.0, 187.0
+293, 5.125, rotten, rotten, 0.0, 299.0
+294, 5.124, green/ unripe, green/ unripe, 0.0, 305.0
+295, 16.42, anger, anger, 0.0, 319.0
+296, 16.41, hate, hate, 0.0, 259.0
+297, 4.858, scar, scar, 0.0, 240.0
+298, 16.44, envy/ jealousy, envy/ jealousy, 0.0, 312.0
+299, 1.841, embers, embers, 0.0, 240.0
+300, 1.83, smoke (noun), smoke (noun), 0.0, 243.0
+301, 1.82, flame (noun), flame (noun), 0.0, 239.0
+302, 1.81, fire, fire, 0.0, 253.0
+303, 1.87, match (noun), match (noun), 0.0, 212.0
+304, 2.621, mother-in-law (of a woman), mother-in-law (of a woman), 0.0, 200.0
+305, 1.84, ashes, ashes, 0.0, 242.0
+306, 1.89, charcoal, charcoal, 0.0, 238.0
+307, 1.88, firewood, firewood, 0.0, 252.0
+308, 15.851, warm, warm, 0.0, 255.0
+309, 4.22, ear, ear, 1.0, 240.0
+310, 4.23, nose, nose, 1.0, 238.0
+311, 4.21, eye, eye, 1.0, 240.0
+312, 4.26, tongue, tongue, 1.0, 235.0
+313, 1.852, burn (vb intrans), burn (vb intrans), 0.0, 250.0
+314, 1.851, burn (vb trans), burn (vb trans), 0.0, 294.0
+315, 4.25, lip, lip, 1.0, 245.0
+316, 4.28, neck, neck, 1.0, 251.0
+317, 4.29, throat, throat, 1.0, 283.0
+318, 2.458, twins, twins, 0.0, 217.0
+319, 1.354, hightide, hightide, 0.0, 114.0
+320, 16.34, regret/ be sorry, regret/ be sorry, 0.0, 254.0
+321, 2.641, daughter-in-law (of a woman), daughter-in-law (of a woman), 0.0, 207.0
+322, 9.49, hammer, hammer, 0.0, 190.0
+323, 16.38, tear (noun), tear (noun), 0.0, 220.0
+324, 14.331, soon, soon, 0.0, 261.0
+325, 9.46, bore, bore, 0.0, 268.0
+326, 16.35, pity, pity, 0.0, 250.0
+327, 9.44, build, build, 0.0, 259.0
+328, 16.33, anxiety/ worry, anxiety/ worry, 0.0, 285.0
+329, 16.32, grief/ sorrow/ sadness, grief/ sorrow/ sadness, 0.0, 334.0
+330, 16.31, pain, pain, 0.0, 290.0
+331, 8.931, pumpkin/ squash, pumpkin/ squash, 0.0, 214.0
+332, 4.89, poison, poison, 0.0, 244.0
+333, 3.55, chicken, chicken, 0.0, 220.0
+334, 17.27, teacher, teacher, 0.0, 249.0
+335, 8.51, grass, grass, 0.0, 274.0
+336, 1.222, cliff/ precipice, cliff/ precipice, 0.0, 307.0
+337, 6.28, fur, fur, 0.0, 207.0
+338, 6.29, leather, leather, 0.0, 262.0
+339, 6.24, cotton, cotton, 0.0, 219.0
+340, 6.25, silk, silk, 0.0, 146.0
+341, 6.27, felt, felt, 0.0, 133.0
+342, 6.21, cloth, cloth, 0.0, 284.0
+343, 6.22, wool, wool, 0.0, 202.0
+344, 8.56, leaf, leaf, 0.0, 254.0
+345, 5.61, meat, meat, 0.0, 241.0
+346, 5.63, sausage, sausage, 0.0, 167.0
+347, 5.65, vegetables, vegetables, 0.0, 173.0
+348, 5.64, soup/ broth, soup/ broth, 0.0, 252.0
+349, 5.66, bean, bean, 0.0, 207.0
+350, 3.663, whale, whale, 0.0, 138.0
+351, 8.54, root, root, 0.0, 255.0
+352, 12.83, sphere/ ball, sphere/ ball, 0.0, 251.0
+353, 8.212, furrow, furrow, 0.0, 175.0
+354, 20.11, fight (vb), fight (vb), 0.0, 311.0
+355, 20.13, war/ battle, war/ battle, 0.0, 276.0
+356, 20.14, peace, peace, 0.0, 206.0
+357, 20.15, army, army, 0.0, 202.0
+358, 20.17, soldier, soldier, 0.0, 211.0
+359, 3.32, boar, boar, 0.0, 210.0
+360, 4.392, wing, wing, 1.0, 236.0
+361, 9.35, pour, pour, 0.0, 285.0
+362, 12.33, top, top, 0.0, 293.0
+363, 10.78, yoke, yoke, 0.0, 150.0
+364, 12.31, high, high, 0.0, 270.0
+365, 1.44, stone/ rock, stone/ rock, 0.0, 375.0
+366, 12.37, middle/ center, middle/ center, 0.0, 297.0
+367, 12.36, side, side, 0.0, 306.0
+368, 12.35, end, end, 0.0, 269.0
+369, 4.312, armpit, armpit, 1.0, 239.0
+370, 10.71, road, road, 0.0, 261.0
+371, 10.72, path, path, 0.0, 268.0
+372, 10.75, carriage/ wagon/ cart, carriage/ wagon/ cart, 0.0, 227.0
+373, 10.74, bridge, bridge, 0.0, 202.0
+374, 10.77, axle, axle, 0.0, 148.0
+375, 10.76, wheel, wheel, 0.0, 200.0
+376, 8.73, tree trunk, tree trunk, 0.0, 236.0
+377, 13.15, much/ many, much/ many, 0.0, 352.0
+378, 8.75, bark, bark, 0.0, 275.0
+379, 8.74, forked branch, forked branch, 0.0, 182.0
+380, 13.102, twelve, twelve, 0.0, 180.0
+381, 8.76, sap, sap, 0.0, 238.0
+382, 7.63, mortar, mortar, 0.0, 142.0
+383, 7.62, brick, brick, 0.0, 168.0
+384, 7.61, mason, mason, 0.0, 160.0
+385, 9.791, fan (vb), fan (vb), 0.0, 201.0
+386, 7.64, adobe, adobe, 0.0, 114.0
+387, 16.65, faithful, faithful, 0.0, 198.0
+388, 9.34, spread out, spread out, 0.0, 303.0
+389, 2.71, stepfather, stepfather, 0.0, 208.0
+390, 10.88, sail (noun), sail (noun), 0.0, 141.0
+391, 14.31, always, always, 0.0, 288.0
+392, 12.81, round, round, 0.0, 263.0
+393, 14.33, sometimes, sometimes, 0.0, 240.0
+394, 14.32, often, often, 0.0, 234.0
+395, 14.35, again, again, 0.0, 302.0
+396, 14.34, never, never, 0.0, 255.0
+397, 11.44, coin, coin, 0.0, 206.0
+398, 3.821, beeswax, beeswax, 0.0, 199.0
+399, 3.822, beehive, beehive, 0.0, 198.0
+400, 3.823, wasp, wasp, 0.0, 244.0
+401, 2.942, we (exclusive), we (exclusive), 0.0, 184.0
+402, 3.5, fowl, fowl, 0.0, 184.0
+403, 2.941, we (inclusive), we (inclusive), 0.0, 184.0
+404, 3.2, cattle (bovine), cattle (bovine), 0.0, 193.0
+405, 18.35, ask/ request, ask/ request, 0.0, 262.0
+406, 18.34, deny, deny, 0.0, 215.0
+407, 18.37, refuse, refuse, 0.0, 205.0
+408, 18.36, promise, promise, 0.0, 202.0
+409, 18.31, ask (question/ inquire), ask (question/ inquire), 0.0, 259.0
+410, 2.61, father-in-law (of a man), father-in-law (of a man), 0.0, 230.0
+411, 2.62, mother-in-law (of a man), mother-in-law (of a man), 0.0, 235.0
+412, 18.32, answer, answer, 0.0, 248.0
+413, 14.66, Thursday, Thursday, 0.0, 162.0
+414, 18.39, rebuke/ scold, rebuke/ scold, 0.0, 290.0
+415, 18.38, forbid, forbid, 0.0, 219.0
+416, 19.43, servant, servant, 0.0, 246.0
+417, 19.42, slave, slave, 0.0, 202.0
+418, 19.41, master, master, 0.0, 269.0
+419, 3.11, animal, animal, 0.0, 247.0
+420, 19.47, let/ permit, let/ permit, 0.0, 248.0
+421, 19.46, obey, obey, 0.0, 240.0
+422, 19.45, command/ order, command/ order, 0.0, 274.0
+423, 19.44, freeman, freeman, 0.0, 142.0
+424, 14.481, day-after-tomorrow, day-after-tomorrow, 0.0, 205.0
+425, 15.55, show, show, 0.0, 267.0
+426, 15.56, shine, shine, 0.0, 321.0
+427, 15.57, bright, bright, 0.0, 286.0
+428, 20.48, booty/ spoils, booty/ spoils, 0.0, 184.0
+429, 15.51, see, see, 0.0, 278.0
+430, 15.52, look/ look at, look/ look at, 0.0, 290.0
+431, 12.84, line, line, 0.0, 227.0
+432, 8.941, sugar cane, sugar cane, 0.0, 150.0
+433, 10.831, canoe, canoe, 0.0, 180.0
+434, 8.691, pipe, pipe, 0.0, 182.0
+435, 4.461, intestines/ guts, intestines/ guts, 1.0, 273.0
+436, 4.151, vein/ artery, vein/ artery, 1.0, 267.0
+437, 7.18, meeting house, meeting house, 0.0, 156.0
+438, 4.202, skull, skull, 1.0, 252.0
+439, 7.16, men's house, men's house, 0.0, 60.0
+440, 7.17, cookhouse, cookhouse, 0.0, 164.0
+441, 7.14, tent, tent, 0.0, 175.0
+442, 7.15, yard/ court, yard/ court, 0.0, 221.0
+443, 7.12, house, house, 0.0, 292.0
+444, 7.13, hut, hut, 0.0, 258.0
+445, 7.11, dwell/ live, dwell/ live, 0.0, 275.0
+446, 10.66, ride, ride, 0.0, 209.0
+447, 4.162, rib, rib, 1.0, 244.0
+448, 10.67, push/ shove, push/ shove, 0.0, 294.0
+449, 3.81, insect, insect, 0.0, 179.0
+450, 10.84, raft, raft, 0.0, 146.0
+451, 3.83, fly, fly, 0.0, 243.0
+452, 3.82, bee, bee, 0.0, 256.0
+453, 3.85, snake, snake, 0.0, 256.0
+454, 3.84, worm, worm, 0.0, 282.0
+455, 1.45, earthquake, earthquake, 0.0, 205.0
+456, 10.65, drive, drive, 0.0, 217.0
+457, 1.43, wood, wood, 0.0, 251.0
+458, 10.86, rudder, rudder, 0.0, 138.0
+459, 1.41, woods/ forest, woods/ forest, 0.0, 289.0
+460, 3.57, duck, duck, 0.0, 229.0
+461, 12.27, hide/ conceal, hide/ conceal, 0.0, 303.0
+462, 4.204, face, face, 1.0, 282.0
+463, 13.101, eleven, eleven, 0.0, 179.0
+464, 3.54, hen, hen, 0.0, 215.0
+465, 4.81, strong/ mighty/ powerful, strong/ mighty/ powerful, 0.0, 368.0
+466, 3.12, male (adj), male (adj), 0.0, 218.0
+467, 3.13, female (adj), female (adj), 0.0, 214.0
+468, 18.222, speech (make a), speech (make a), 0.0, 218.0
+469, 3.16, pasture, pasture, 0.0, 238.0
+470, 3.15, livestock, livestock, 0.0, 209.0
+471, 9.261, broken, broken, 0.0, 257.0
+472, 3.18, herdsman, herdsman, 0.0, 208.0
+473, 3.19, stable/ stall, stable/ stall, 0.0, 236.0
+474, 16.73, right/ correct, right/ correct, 0.0, 269.0
+475, 16.72, bad, bad, 0.0, 312.0
+476, 16.71, good, good, 0.0, 296.0
+477, 16.77, mistake/ error, mistake/ error, 0.0, 269.0
+478, 16.76, fault, fault, 0.0, 225.0
+479, 15.712, pinch, pinch, 0.0, 272.0
+480, 13.42, third, third, 0.0, 175.0
+481, 16.79, praise, praise, 0.0, 221.0
+482, 16.78, blame, blame, 0.0, 219.0
+483, 6.31, spin, spin, 0.0, 224.0
+484, 4.83, well/ health, well/ health, 0.0, 328.0
+485, 4.79, grave/ tomb, grave/ tomb, 0.0, 255.0
+486, 4.78, bury (the dead), bury (the dead), 0.0, 261.0
+487, 2.341, divorce, divorce, 0.0, 209.0
+488, 10.35, swim, swim, 0.0, 255.0
+489, 6.37, awl, awl, 0.0, 166.0
+490, 10.37, fly (vb), fly (vb), 0.0, 250.0
+491, 16.74, wrong, wrong, 0.0, 246.0
+492, 4.71, beget (of father), beget (of father), 0.0, 189.0
+493, 8.82, coconut, coconut, 0.0, 112.0
+494, 10.33, sink, sink, 0.0, 277.0
+495, 4.72, born (to be), born (to be), 0.0, 264.0
+496, 2.73, stepson, stepson, 0.0, 194.0
+497, 3.28, ewe, ewe, 0.0, 169.0
+498, 12.212, pick up, pick up, 0.0, 248.0
+499, 5.391, tongs, tongs, 0.0, 183.0
+500, 16.66, true, true, 0.0, 289.0
+501, 8.311, seed, seed, 0.0, 266.0
+502, 2.28, infant/ baby, infant/ baby, 0.0, 297.0
+503, 10.36, sail (vb), sail (vb), 0.0, 136.0
+504, 20.62, shoot, shoot, 0.0, 293.0
+505, 20.65, trap (vb), trap (vb), 0.0, 202.0
+506, 20.64, trap (noun), trap (noun), 0.0, 240.0
+507, 8.85, banyan, banyan, 0.0, 98.0
+508, 9.76, basket, basket, 0.0, 310.0
+509, 9.77, mat, mat, 0.0, 199.0
+510, 21.24, swear, swear, 0.0, 172.0
+511, 9.75, weave/ plait, weave/ plait, 0.0, 255.0
+512, 9.72, mold (clay etc), mold (clay etc), 0.0, 179.0
+513, 9.73, clay, clay, 0.0, 257.0
+514, 5.121, cooked, cooked, 0.0, 237.0
+515, 4.441, lung, lung, 1.0, 225.0
+516, 5.712, bunch, bunch, 0.0, 253.0
+517, 13.6, six, six, 0.0, 161.0
+518, 9.78, netbag, netbag, 0.0, 151.0
+519, 9.79, fan (noun), fan (noun), 0.0, 191.0
+520, 17.56, no/ negative, no/ negative, 0.0, 353.0
+521, 17.54, or, or, 0.0, 222.0
+522, 17.55, yes/ affirmative, yes/ affirmative, 0.0, 300.0
+523, 17.52, because, because, 0.0, 291.0
+524, 17.53, if, if, 0.0, 277.0
+525, 17.51, and, and, 0.0, 260.0
+526, 3.582, seagull, seagull, 0.0, 153.0
+527, 3.622, opossum, opossum, 0.0, 101.0
+528, 4.842, goiter, goiter, 0.0, 162.0
+529, 12.53, grow, grow, 0.0, 302.0
+530, 5.59, pestle, pestle, 0.0, 200.0
+531, 5.18, chew, chew, 0.0, 262.0
+532, 6.76, bead, bead, 0.0, 206.0
+533, 6.75, necklace, necklace, 0.0, 250.0
+534, 6.74, bracelet, bracelet, 0.0, 204.0
+535, 6.73, ring (for finger), ring (for finger), 0.0, 203.0
+536, 6.72, jewel, jewel, 0.0, 194.0
+537, 6.71, ornament/ adornment, ornament/ adornment, 0.0, 235.0
+538, 5.11, eat, eat, 0.0, 305.0
+539, 5.12, food, food, 0.0, 305.0
+540, 5.13, drink, drink, 0.0, 262.0
+541, 5.14, hunger, hunger, 0.0, 257.0
+542, 5.15, thirst, thirst, 0.0, 240.0
+543, 5.16, suck, suck, 0.0, 298.0
+544, 6.78, headband/ headdress, headband/ headdress, 0.0, 251.0
+545, 14.65, Wednesday, Wednesday, 0.0, 161.0
+546, 17.172, imitate, imitate, 0.0, 225.0
+547, 17.171, guess, guess, 0.0, 224.0
+548, 10.38, blow, blow, 0.0, 280.0
+549, 10.471, go up, go up, 0.0, 261.0
+550, 10.472, climb, climb, 0.0, 264.0
+551, 5.57, mill, mill, 0.0, 185.0
+552, 12.68, shallow, shallow, 0.0, 230.0
+553, 2.21, man (vs. woman), man (vs. woman), 0.0, 280.0
+554, 12.65, thin (in dimension), thin (in dimension), 0.0, 301.0
+555, 4.344, fingernail, fingernail, 1.0, 231.0
+556, 4.4, chest, chest, 1.0, 269.0
+557, 4.3, shoulder, shoulder, 1.0, 255.0
+558, 2.22, woman, woman, 0.0, 288.0
+559, 12.62, narrow, narrow, 0.0, 294.0
+560, 12.63, thick (in dimension), thick (in dimension), 0.0, 265.0
+561, 4.75, die/ dead, die/ dead, 0.0, 413.0
+562, 2.23, male, male, 0.0, 253.0
+563, 4.97, blind, blind, 0.0, 251.0
+564, 13.181, some, some, 0.0, 283.0
+565, 4.74, live/ living/ life, live/ living/ life, 0.0, 416.0
+566, 2.445, younger brother, younger brother, 0.0, 227.0
+567, 4.77, corpse, corpse, 0.0, 261.0
+568, 2.25, boy, boy, 0.0, 278.0
+569, 7.52, thatch, thatch, 0.0, 177.0
+570, 7.53, ridgepole, ridgepole, 0.0, 161.0
+571, 7.51, roof, roof, 0.0, 248.0
+572, 7.56, post/ pole, post/ pole, 0.0, 271.0
+573, 7.57, board, board, 0.0, 200.0
+574, 7.54, rafter, rafter, 0.0, 222.0
+575, 7.55, beam, beam, 0.0, 218.0
+576, 9.343, squeeze/ wring, squeeze/ wring, 0.0, 297.0
+577, 7.58, arch, arch, 0.0, 150.0
+578, 2.27, child, child, 0.0, 287.0
+579, 4.27, tooth, tooth, 1.0, 247.0
+580, 9.342, press, press, 0.0, 281.0
+581, 11.14, seize/ grasp, seize/ grasp, 0.0, 310.0
+582, 11.15, hold, hold, 0.0, 245.0
+583, 11.16, get/ obtain, get/ obtain, 0.0, 273.0
+584, 9.5, nail, nail, 0.0, 217.0
+585, 11.11, have, have, 0.0, 233.0
+586, 11.12, own/ possess, own/ possess, 0.0, 234.0
+587, 11.13, take, take, 0.0, 281.0
+588, 10.32, flow, flow, 0.0, 265.0
+589, 11.18, thing, thing, 0.0, 259.0
+590, 6.921, braid, braid, 0.0, 241.0
+591, 6.94, ointment, ointment, 0.0, 203.0
+592, 14.78, season, season, 0.0, 193.0
+593, 11.89, cheap, cheap, 0.0, 207.0
+594, 11.88, dear (costly/ expensive), dear (costly/ expensive), 0.0, 218.0
+595, 11.87, price, price, 0.0, 205.0
+596, 14.74, winter, winter, 0.0, 205.0
+597, 14.77, autumn, autumn, 0.0, 167.0
+598, 14.76, summer, summer, 0.0, 200.0
+599, 11.83, trade/ barter, trade/ barter, 0.0, 255.0
+600, 11.82, sell, sell, 0.0, 237.0
+601, 11.81, buy, buy, 0.0, 239.0
+602, 11.84, merchant, merchant, 0.0, 232.0
+603, 4.95, deaf, deaf, 0.0, 252.0
+604, 20.25, arrow, arrow, 0.0, 243.0
+605, 9.56, glue, glue, 0.0, 241.0
+606, 5.89, butter, butter, 0.0, 169.0
+607, 5.88, cheese, cheese, 0.0, 151.0
+608, 5.87, milk (vb), milk (vb), 0.0, 195.0
+609, 9.422, tool, tool, 0.0, 207.0
+610, 1.37, spring/ well, spring/ well, 0.0, 382.0
+611, 16.45, shame (noun), shame (noun), 0.0, 269.0
+612, 13.104, twenty, twenty, 0.0, 194.0
+613, 20.27, sword, sword, 0.0, 184.0
+614, 5.81, salt, salt, 0.0, 228.0
+615, 12.213, pile up, pile up, 0.0, 288.0
+616, 8.17, ditch, ditch, 0.0, 262.0
+617, 20.26, spear, spear, 0.0, 237.0
+618, 19.15, city/ town, city/ town, 0.0, 221.0
+619, 19.16, village, village, 0.0, 253.0
+620, 19.17, boundary, boundary, 0.0, 221.0
+621, 18.23, silent (be), silent (be), 0.0, 241.0
+622, 19.11, country, country, 0.0, 238.0
+623, 20.222, battle-ax, battle-ax, 0.0, 134.0
+624, 19.65, meet, meet, 0.0, 272.0
+625, 7.42, bed, bed, 0.0, 278.0
+626, 17.61, how?, how?, 0.0, 260.0
+627, 2.455, younger sister, younger sister, 0.0, 218.0
+628, 3.45, foal/ colt, foal/ colt, 0.0, 188.0
+629, 8.13, garden, garden, 0.0, 211.0
+630, 3.47, mule, mule, 0.0, 151.0
+631, 3.46, ass/ donkey, ass/ donkey, 0.0, 175.0
+632, 3.41, horse (equine), horse (equine), 0.0, 191.0
+633, 20.63, miss (target), miss (target), 0.0, 211.0
+634, 3.42, stallion, stallion, 0.0, 181.0
+635, 8.11, farmer, farmer, 0.0, 198.0
+636, 2.471, old woman, old woman, 0.0, 261.0
+637, 8.97, nettle, nettle, 0.0, 169.0
+638, 2.64, daughter-in-law (of a man), daughter-in-law (of a man), 0.0, 225.0
+639, 8.94, bamboo, bamboo, 0.0, 175.0
+640, 8.93, gourd, gourd, 0.0, 238.0
+641, 8.92, tapioca/ manioc/ cassava, tapioca/ manioc/ cassava, 0.0, 149.0
+642, 8.91, sweet potato, sweet potato, 0.0, 156.0
+643, 1.215, sand, sand, 0.0, 245.0
+644, 1.214, mud, mud, 0.0, 306.0
+645, 12.23, separate, separate, 0.0, 281.0
+646, 1.213, dust, dust, 0.0, 269.0
+647, 1.212, earth=ground/ soil, earth=ground/ soil, 0.0, 292.0
+648, 2.37, parents, parents, 0.0, 215.0
+649, 2.36, mother, mother, 0.0, 293.0
+650, 2.35, father, father, 0.0, 305.0
+651, 7.221, doorpost/ jamb, doorpost/ jamb, 0.0, 162.0
+652, 2.33, marry, marry, 0.0, 325.0
+653, 2.32, wife, wife, 0.0, 302.0
+654, 2.31, husband, husband, 0.0, 313.0
+655, 18.61, book, book, 0.0, 184.0
+656, 14.53, clock/ timepiece, clock/ timepiece, 0.0, 185.0
+657, 9.341, hang up, hang up, 0.0, 280.0
+658, 16.3, embrace, embrace, 0.0, 238.0
+659, 1.78, weather, weather, 0.0, 182.0
+660, 2.521, mother's sister, mother's sister, 0.0, 219.0
+661, 1.76, snow (noun), snow (noun), 0.0, 183.0
+662, 1.77, ice, ice, 0.0, 226.0
+663, 1.74, fog, fog, 0.0, 254.0
+664, 1.75, rain (noun), rain (noun), 0.0, 257.0
+665, 1.72, wind, wind, 0.0, 259.0
+666, 14.51, hour, hour, 0.0, 170.0
+667, 4.393, feather, feather, 1.0, 261.0
+668, 1.71, air, air, 0.0, 207.0
+669, 4.31, arm, arm, 1.0, 260.0
+670, 4.33, hand, hand, 1.0, 250.0
+671, 4.32, elbow, elbow, 1.0, 245.0
+672, 4.35, leg, leg, 1.0, 256.0
+673, 4.34, finger, finger, 1.0, 229.0
+674, 4.37, foot, foot, 1.0, 256.0
+675, 4.36, knee, knee, 1.0, 251.0
+676, 21.17, judgment, judgment, 0.0, 157.0
+677, 21.16, judge (vb), judge (vb), 0.0, 169.0
+678, 21.15, court, court, 0.0, 172.0
+679, 9.461, hollow out, hollow out, 0.0, 243.0
+680, 9.74, glass, glass, 0.0, 179.0
+681, 21.11, law, law, 0.0, 204.0
+682, 21.23, witness, witness, 0.0, 172.0
+683, 3.596, owl, owl, 0.0, 288.0
+684, 9.38, broom, broom, 0.0, 239.0
+685, 1.362, whirlpool, whirlpool, 0.0, 208.0
+686, 5.181, swallow, swallow, 0.0, 257.0
+687, 16.29, kiss, kiss, 0.0, 250.0
+688, 13.18, enough, enough, 0.0, 265.0
+689, 13.19, multitude/ crowd, multitude/ crowd, 0.0, 281.0
+690, 13.16, more, more, 0.0, 250.0
+691, 13.17, little (quantity)/ few, little (quantity)/ few, 0.0, 300.0
+692, 13.14, every/ all, every/ all, 0.0, 361.0
+693, 16.27, love, love, 0.0, 316.0
+694, 9.36, wash, wash, 0.0, 297.0
+695, 9.37, sweep, sweep, 0.0, 239.0
+696, 10.34, float, float, 0.0, 241.0
+697, 16.23, joyful/ glad/ happy, joyful/ glad/ happy, 0.0, 391.0
+698, 5.7, potato, potato, 0.0, 206.0
+699, 17.18, seem, seem, 0.0, 220.0
+700, 17.19, idea/ notion, idea/ notion, 0.0, 288.0
+701, 17.13, think (= reflect), think (= reflect), 0.0, 266.0
+702, 17.11, mind, mind, 0.0, 248.0
+703, 17.16, understand, understand, 0.0, 258.0
+704, 17.17, know, know, 0.0, 275.0
+705, 17.14, think (= be of the opinion), think (= be of the opinion), 0.0, 270.0
+706, 17.15, believe, believe, 0.0, 232.0
+707, 4.84, sick/ sickness, sick/ sickness, 0.0, 391.0
+708, 4.85, wound/ sore, wound/ sore, 0.0, 301.0
+709, 4.86, cure/ heal, cure/ heal, 0.0, 299.0
+710, 6.38, thread, thread, 0.0, 251.0
+711, 10.62, bring, bring, 0.0, 282.0
+712, 10.63, send, send, 0.0, 275.0
+713, 4.82, weak, weak, 0.0, 308.0
+714, 10.61, carry (bear), carry (bear), 0.0, 304.0
+715, 6.33, weave, weave, 0.0, 235.0
+716, 6.32, spindle, spindle, 0.0, 193.0
+717, 14.19, immediately, immediately, 0.0, 280.0
+718, 4.88, medicine/ drug, medicine/ drug, 0.0, 282.0
+719, 6.36, needle, needle, 0.0, 230.0
+720, 6.35, sew, sew, 0.0, 253.0
+721, 6.34, loom, loom, 0.0, 156.0
+722, 13.4, four, four, 0.0, 182.0
+723, 13.5, five, five, 0.0, 171.0
+724, 10.832, outrigger, outrigger, 0.0, 72.0
+725, 13.7, seven, seven, 0.0, 158.0
+726, 5.58, mortar, mortar, 0.0, 208.0
+727, 13.1, one, one, 0.0, 262.0
+728, 13.2, two, two, 0.0, 215.0
+729, 13.3, three, three, 0.0, 196.0
+730, 5.54, knead, knead, 0.0, 224.0
+731, 5.55, meal/ flour, meal/ flour, 0.0, 217.0
+732, 5.56, crush/ grind, crush/ grind, 0.0, 352.0
+733, 10.474, go out, go out, 0.0, 239.0
+734, 13.8, eight, eight, 0.0, 155.0
+735, 5.51, bread, bread, 0.0, 204.0
+736, 5.53, dough, dough, 0.0, 182.0
+737, 4.492, penis, penis, 1.0, 303.0
+738, 20.42, defeat, defeat, 0.0, 202.0
+739, 20.28, gun/ cannon, gun/ cannon, 0.0, 299.0
+740, 17.69, why?, why?, 0.0, 255.0
+741, 17.68, who?, who?, 0.0, 266.0
+742, 17.67, which?, which?, 0.0, 251.0
+743, 20.24, bow, bow, 0.0, 231.0
+744, 17.65, when?, when?, 0.0, 259.0
+745, 17.64, what?, what?, 0.0, 270.0
+746, 20.21, weapons/ arms, weapons/ arms, 0.0, 187.0
+747, 17.62, how many?, how many?, 0.0, 236.0
+748, 16.622, choose, choose, 0.0, 245.0
+749, 20.22, club, club, 0.0, 244.0
+750, 4.302, collarbone, collarbone, 1.0, 182.0
+751, 12.21, collect/ gather, collect/ gather, 0.0, 306.0
+752, 12.22, join/ unite, join/ unite, 0.0, 318.0
+753, 4.301, shoulderblade, shoulderblade, 1.0, 204.0
+754, 12.24, open, open, 0.0, 280.0
+755, 12.25, shut/ close, shut/ close, 0.0, 277.0
+756, 12.26, cover, cover, 0.0, 293.0
+757, 3.93, grasshopper, grasshopper, 0.0, 212.0
+758, 17.66, where?, where?, 0.0, 316.0
+759, 14.252, last/ endure, last/ endure, 0.0, 215.0
+760, 14.332, long-time (for a), long-time (for a), 0.0, 229.0
+761, 16.26, play, play, 0.0, 269.0
+762, 1.53, moon, moon, 0.0, 246.0
+763, 8.48, rice, rice, 0.0, 165.0
+764, 8.44, barley, barley, 0.0, 131.0
+765, 8.45, rye, rye, 0.0, 118.0
+766, 8.46, oats, oats, 0.0, 125.0
+767, 8.47, maize/ corn, maize/ corn, 0.0, 231.0
+768, 8.41, crop/ harvest, crop/ harvest, 0.0, 232.0
+769, 8.42, grain (barley/ oats etc), grain (barley/ oats etc), 0.0, 209.0
+770, 8.43, wheat, wheat, 0.0, 158.0
+771, 3.94, snail, snail, 0.0, 241.0
+772, 8.27, rake, rake, 0.0, 173.0
+773, 11.51, rich, rich, 0.0, 226.0
+774, 11.52, poor, poor, 0.0, 258.0
+775, 11.53, beggar, beggar, 0.0, 216.0
+776, 11.54, avaricious/ stingy, avaricious/ stingy, 0.0, 313.0
+777, 7.32, stove, stove, 0.0, 184.0
+778, 8.912, yam, yam, 0.0, 100.0
+779, 6.461, grass-skirt, grass-skirt, 0.0, 58.0
+780, 4.374, footprint, footprint, 1.0, 226.0
+781, 14.16, early, early, 0.0, 226.0
+782, 4.372, heel, heel, 1.0, 230.0
+783, 12.93, change, change, 0.0, 271.0
+784, 12.92, like/ similar, like/ similar, 0.0, 302.0
+785, 10.92, land (vb), land (vb), 0.0, 202.0
+786, 10.91, harbor/ port, harbor/ port, 0.0, 194.0
+787, 1.353, lowtide, lowtide, 0.0, 116.0
+788, 4.272, molartooth, molartooth, 1.0, 211.0
+789, 4.271, gums, gums, 1.0, 211.0
+790, 16.37, cry/ weep, cry/ weep, 0.0, 278.0
+791, 9.71, potter, potter, 0.0, 157.0
+792, 3.819, spider web, spider web, 0.0, 219.0
+793, 3.818, spider, spider, 0.0, 240.0
+794, 6.48, trousers, trousers, 0.0, 225.0
+795, 6.49, stocking/ sock, stocking/ sock, 0.0, 209.0
+796, 3.815, scorpion, scorpion, 0.0, 210.0
+797, 3.814, centipede, centipede, 0.0, 185.0
+798, 3.817, ant, ant, 0.0, 250.0
+799, 3.816, cockroach, cockroach, 0.0, 208.0
+800, 6.42, woman's dress, woman's dress, 0.0, 244.0
+801, 6.43, coat, coat, 0.0, 197.0
+802, 3.813, flea, flea, 0.0, 225.0
+803, 6.41, cloak, cloak, 0.0, 184.0
+804, 18.22, say, say, 0.0, 308.0
+805, 2.72, stepmother, stepmother, 0.0, 216.0
+806, 9.89, paint (vb), paint (vb), 0.0, 250.0
+807, 18.21, speak/ talk, speak/ talk, 0.0, 336.0
+808, 18.26, word, word, 0.0, 244.0
+809, 2.76, widow, widow, 0.0, 231.0
+810, 18.24, language, language, 0.0, 250.0
+811, 5.19, choke, choke, 0.0, 253.0
+812, 9.83, statue, statue, 0.0, 134.0
+813, 9.82, sculptor, sculptor, 0.0, 104.0
+814, 18.28, name, name, 0.0, 246.0
+815, 9.84, chisel, chisel, 0.0, 164.0
+816, 15.69, yellow, yellow, 0.0, 242.0
+817, 21.31, accuse, accuse, 0.0, 219.0
+818, 19.52, enemy, enemy, 0.0, 235.0
+819, 17.63, how much?, how much?, 0.0, 239.0
+820, 19.54, neighbor, neighbor, 0.0, 207.0
+821, 19.55, stranger, stranger, 0.0, 254.0
+822, 19.56, guest, guest, 0.0, 201.0
+823, 19.57, host, host, 0.0, 195.0
+824, 19.58, help/ aid, help/ aid, 0.0, 257.0
+825, 19.59, hinder/ prevent, hinder/ prevent, 0.0, 267.0
+826, 15.63, dark (in color), dark (in color), 0.0, 236.0
+827, 2.444, older brother, older brother, 0.0, 254.0
+828, 15.65, black, black, 0.0, 265.0
+829, 15.64, white, white, 0.0, 267.0
+830, 15.67, blue, blue, 0.0, 246.0
+831, 15.66, red, red, 0.0, 273.0
+832, 14.26, end (temporal), end (temporal), 0.0, 223.0
+833, 14.27, finish, finish, 0.0, 317.0
+834, 14.24, retard/ delay, retard/ delay, 0.0, 263.0
+835, 14.25, begin/ beginning, begin/ beginning, 0.0, 346.0
+836, 14.22, slow, slow, 0.0, 266.0
+837, 14.23, hasten/ hurry, hasten/ hurry, 0.0, 306.0
+838, 14.21, swift/ fast/ quick, swift/ fast/ quick, 0.0, 365.0
+839, 4.17, horn, horn, 1.0, 234.0
+840, 4.751, drowned, drowned, 0.0, 241.0
+841, 1.861, extinguish, extinguish, 0.0, 258.0
+842, 4.16, bone, bone, 1.0, 237.0
+843, 11.61, lend, lend, 0.0, 228.0
+844, 4.15, blood, blood, 1.0, 251.0
+845, 4.14, hair (head), hair (head), 1.0, 279.0
+846, 5.821, chili pepper, chili pepper, 0.0, 193.0
+847, 9.161, untie, untie, 0.0, 264.0
+848, 5.791, grease/ fat, grease/ fat, 0.0, 311.0
+849, 3.96, lizard, lizard, 0.0, 263.0
+850, 21.22, defendant, defendant, 0.0, 160.0
+851, 1.32, sea, sea, 0.0, 215.0
+852, 9.221, cut down, cut down, 0.0, 260.0
+853, 9.222, chop/ hew, chop/ hew, 0.0, 279.0
+854, 9.223, stab, stab, 0.0, 274.0
+855, 1.36, river/ stream/ brook, river/ stream/ brook, 0.0, 433.0
+856, 6.79, tattoo, tattoo, 0.0, 127.0
+857, 1.34, gulf/ bay, gulf/ bay, 0.0, 145.0
+858, 1.35, wave, wave, 0.0, 234.0
+859, 2.611, father-in-law (of a woman), father-in-law (of a woman), 0.0, 204.0
+860, 1.38, swamp, swamp, 0.0, 271.0
+861, 1.39, waterfall, waterfall, 0.0, 212.0
+862, 14.12, age, age, 0.0, 257.0
+863, 3.586, vulture, vulture, 0.0, 195.0
+864, 3.585, hawk, hawk, 0.0, 244.0
+865, 3.584, eagle, eagle, 0.0, 204.0
+866, 3.583, heron, heron, 0.0, 212.0
+867, 4.371, ankle, ankle, 1.0, 241.0
+868, 3.581, bird, bird, 0.0, 247.0
+869, 13.21, full, full, 0.0, 270.0
+870, 5.141, famine, famine, 0.0, 224.0
+871, 8.53, plant (noun), plant (noun), 0.0, 225.0
+872, 5.123, ripe, ripe, 0.0, 274.0
+873, 18.57, pen, pen, 0.0, 198.0
+874, 18.56, paper, paper, 0.0, 191.0
+875, 16.62, desire/ want, desire/ want, 0.0, 368.0
+876, 16.63, hope, hope, 0.0, 213.0
+877, 18.52, read, read, 0.0, 211.0
+878, 1.323, rough (of sea), rough (of sea), 0.0, 184.0
+879, 1.322, calm (of sea), calm (of sea), 0.0, 208.0
+880, 16.68, deceit, deceit, 0.0, 252.0
+881, 16.69, forgive, forgive, 0.0, 203.0
+882, 1.329, ocean, ocean, 0.0, 188.0
+883, 4.912, rest, rest, 0.0, 247.0
+884, 4.612, snore, snore, 0.0, 232.0
+885, 4.49, testicle, testicle, 1.0, 256.0
+886, 6.411, poncho, poncho, 0.0, 78.0
+887, 2.261, young woman (adolescent), young woman (adolescent), 0.0, 273.0
+888, 13.107, count, count, 0.0, 239.0
+889, 10.23, fall, fall, 0.0, 306.0
+890, 13.105, hundred, hundred, 0.0, 174.0
+891, 10.21, rise, rise, 0.0, 334.0
+892, 4.44, heart, heart, 1.0, 256.0
+893, 4.45, liver, liver, 1.0, 235.0
+894, 4.46, stomach, stomach, 1.0, 310.0
+895, 10.25, throw, throw, 0.0, 320.0
+896, 9.64, gold, gold, 0.0, 189.0
+897, 6.82, towel, towel, 0.0, 186.0
+898, 4.38, toe, toe, 1.0, 229.0
+899, 9.65, silver, silver, 0.0, 175.0
+900, 21.52, thief, thief, 0.0, 254.0
+901, 9.67, iron, iron, 0.0, 181.0
+902, 5.9, beverage/ drink, beverage/ drink, 0.0, 223.0
+903, 9.61, forge, forge, 0.0, 144.0
+904, 13.22, empty, empty, 0.0, 253.0
+905, 9.63, cast (metals), cast (metals), 0.0, 143.0
+906, 9.62, anvil, anvil, 0.0, 136.0
+907, 9.69, tin/ tinplate, tin/ tinplate, 0.0, 178.0
+908, 9.68, lead (noun), lead (noun), 0.0, 149.0
+909, 21.36, innocent, innocent, 0.0, 164.0
+910, 17.23, insane/ crazy, insane/ crazy, 0.0, 289.0
+911, 17.22, foolish/ stupid, foolish/ stupid, 0.0, 338.0
+912, 17.21, wise, wise, 0.0, 248.0
+913, 14.451, afternoon, afternoon, 0.0, 225.0
+914, 4.452, spleen, spleen, 1.0, 172.0
+915, 17.26, pupil, pupil, 0.0, 238.0
+916, 17.25, teach, teach, 0.0, 281.0
+917, 17.24, learn, learn, 0.0, 289.0
+918, 4.64, break wind, break wind, 0.0, 241.0
+919, 17.28, school, school, 0.0, 192.0
+920, 3.78, camel, camel, 0.0, 134.0
+921, 9.33, pull, pull, 0.0, 276.0
+922, 3.594, dove, dove, 0.0, 249.0
+923, 4.521, hiccough, hiccough, 0.0, 218.0
+924, 9.66, copper/ bronze, copper/ bronze, 0.0, 222.0
+925, 6.46, skirt, skirt, 0.0, 216.0
+926, 10.473, go down, go down, 0.0, 298.0
+927, 17.38, explain, explain, 0.0, 230.0
+928, 5.42, breakfast, breakfast, 0.0, 188.0
+929, 10.412, kneel, kneel, 0.0, 235.0
+930, 9.192, knot (noun), knot (noun), 0.0, 241.0
+931, 6.23, linen/ flax, linen/ flax, 0.0, 153.0
+932, 6.44, shirt, shirt, 0.0, 202.0
+933, 18.16, mumble, mumble, 0.0, 191.0
+934, 12.59, short, short, 0.0, 266.0
+935, 12.58, tall, tall, 0.0, 270.0
+936, 6.45, collar, collar, 0.0, 191.0
+937, 4.451, kidney, kidney, 1.0, 228.0
+938, 3.811, louse, louse, 0.0, 241.0
+939, 4.331, palm of hand, palm of hand, 1.0, 247.0
+940, 15.71, touch, touch, 0.0, 290.0
+941, 12.55, large/ big, large/ big, 0.0, 298.0
+942, 12.54, measure, measure, 0.0, 233.0
+943, 12.57, long, long, 0.0, 268.0
+944, 6.81, handkerchief/ rag, handkerchief/ rag, 0.0, 254.0
+945, 4.232, mucus (nasal), mucus (nasal), 1.0, 262.0
+946, 4.231, nostril, nostril, 1.0, 222.0
+947, 1.57, lightning (as striking), lightning (as striking), 0.0, 222.0
+948, 10.57, enter, enter, 0.0, 286.0
+949, 10.56, approach, approach, 0.0, 259.0
+950, 10.55, reach/ arrive, reach/ arrive, 0.0, 329.0
+951, 3.812, nit (louse egg), nit (louse egg), 0.0, 197.0
+952, 10.53, pursue, pursue, 0.0, 256.0
+953, 10.52, follow, follow, 0.0, 271.0
+954, 10.51, flee, flee, 0.0, 284.0
+955, 16.39, groan, groan, 0.0, 232.0
+956, 8.16, fence, fence, 0.0, 243.0
+957, 7.43, chair, chair, 0.0, 232.0
+958, 9.771, rug, rug, 0.0, 208.0
+959, 7.45, lamp/ torch, lamp/ torch, 0.0, 298.0
+960, 8.12, field (for cultivation), field (for cultivation), 0.0, 266.0
+961, 7.47, shelf, shelf, 0.0, 191.0
+962, 7.46, candle, candle, 0.0, 196.0
+963, 20.471, guard/ sentinel, guard/ sentinel, 0.0, 236.0
+964, 7.48, trough, trough, 0.0, 225.0
+965, 17.441, betray, betray, 0.0, 207.0
+966, 7.44, table, table, 0.0, 186.0
+967, 19.37, citizen/ subject, citizen/ subject, 0.0, 205.0
+968, 18.221, tell story, tell story, 0.0, 251.0
+969, 4.2, head, head, 1.0, 263.0
+970, 11.21, give, give, 0.0, 278.0
+971, 11.22, give back, give back, 0.0, 236.0
+972, 11.25, save/ rescue, save/ rescue, 0.0, 242.0
+973, 11.24, preserve/ look after, preserve/ look after, 0.0, 247.0
+974, 11.27, destroy, destroy, 0.0, 278.0
+975, 14.18, now, now, 0.0, 277.0
+976, 14.17, late, late, 0.0, 230.0
+977, 11.28, harm/ injure/ damage, harm/ injure/ damage, 0.0, 289.0
+978, 14.15, old, old, 0.0, 309.0
+979, 14.14, young, young, 0.0, 264.0
+980, 14.13, new, new, 0.0, 248.0
+981, 15.68, green, green, 0.0, 245.0
+982, 14.11, time, time, 0.0, 238.0
+983, 14.68, Saturday, Saturday, 0.0, 161.0
+984, 2.75, orphan, orphan, 0.0, 246.0
+985, 4.241, beak, beak, 1.0, 231.0
+986, 6.91, comb, comb, 0.0, 239.0
+987, 14.63, Monday, Monday, 0.0, 159.0
+988, 6.93, razor, razor, 0.0, 186.0
+989, 6.92, brush, brush, 0.0, 168.0
+990, 6.95, soap, soap, 0.0, 181.0
+991, 11.91, share (distribute), share (distribute), 0.0, 239.0
+992, 11.92, weigh, weigh, 0.0, 210.0
+993, 10.431, kick, kick, 0.0, 251.0
+994, 12.1, after, after, 0.0, 227.0
+995, 4.221, earlobe, earlobe, 1.0, 143.0
+996, 9.81, carve, carve, 0.0, 218.0
+997, 12.2, beside, beside, 0.0, 243.0
+998, 10.491, disappear, disappear, 0.0, 259.0
+999, 19.21, people (populace), people (populace), 0.0, 278.0
+1000, 4.62, dream, dream, 0.0, 275.0
+1001, 19.23, tribe/ clan, tribe/ clan, 0.0, 265.0
+1002, 4.222, earwax, earwax, 1.0, 173.0
+1003, 19.25, staff/ walking stick, staff/ walking stick, 0.0, 264.0
+1004, 19.24, chief/ chieftain, chief/ chieftain, 0.0, 283.0
+1005, 4.63, wake up, wake up, 0.0, 283.0
+1006, 4.61, sleep, sleep, 0.0, 280.0
+1007, 3.593, crow, crow, 0.0, 188.0
+1008, 10.24, drip, drip, 0.0, 258.0
+1009, 1.22, mountain/ hill, mountain/ hill, 0.0, 399.0
+1010, 3.71, wolf, wolf, 0.0, 181.0
+1011, 3.72, lion, lion, 0.0, 192.0
+1012, 3.73, bear, bear, 0.0, 163.0
+1013, 3.74, fox, fox, 0.0, 198.0
+1014, 3.75, deer, deer, 0.0, 265.0
+1015, 3.76, monkey, monkey, 0.0, 235.0
+1016, 3.77, elephant, elephant, 0.0, 148.0
+1017, 7.231, latch/ door-bolt, latch/ door-bolt, 0.0, 187.0
+1018, 18.73, horn/ trumpet, horn/ trumpet, 0.0, 211.0
+1019, 10.481, come back, come back, 0.0, 266.0
+1020, 19.51, friend/ companion, friend/ companion, 0.0, 342.0
+1021, 15.25, fragrant/ good smelling, fragrant/ good smelling, 0.0, 265.0
+1022, 15.26, stinking/ bad smelling, stinking/ bad smelling, 0.0, 293.0
+1023, 15.21, smell (vb intrans), smell (vb intrans), 0.0, 249.0
+1024, 12.67, deep, deep, 0.0, 249.0
+1025, 15.81, heavy, heavy, 0.0, 245.0
+1026, 15.22, smell (vb trans), smell (vb trans), 0.0, 234.0
+1027, 14.73, year, year, 0.0, 233.0
+1028, 18.18, shriek/ screech, shriek/ screech, 0.0, 208.0
+1029, 18.13, shout/ cry out, shout/ cry out, 0.0, 301.0
+1030, 2.43, offspring (son or daughter), offspring (son or daughter), 0.0, 253.0
+1031, 18.11, voice, voice, 0.0, 234.0
+1032, 2.41, son, son, 0.0, 274.0
+1033, 2.46, grandfather, grandfather, 0.0, 300.0
+1034, 2.47, grandmother, grandmother, 0.0, 300.0
+1035, 18.15, whisper, whisper, 0.0, 217.0
+1036, 2.45, sister, sister, 0.0, 236.0
+1037, 3.662, porpoise/ dolphin, porpoise/ dolphin, 0.0, 128.0
+1038, 20.23, sling, sling, 0.0, 163.0
+1039, 3.661, shark, shark, 0.0, 137.0
+1040, 3.664, stingray, stingray, 0.0, 142.0
+1041, 3.665, freshwater eel, freshwater eel, 0.0, 148.0
+1042, 9.251, adze, adze, 0.0, 164.0
+1043, 1.64, dew, dew, 0.0, 227.0
+1044, 1.61, light (noun), light (noun), 0.0, 289.0
+1045, 1.63, shade/ shadow, shade/ shadow, 0.0, 285.0
+1046, 1.62, darkness, darkness, 0.0, 316.0
+1047, 15.61, color, color, 0.0, 180.0
+1048, 2.631, son-in-law (of a woman), son-in-law (of a woman), 0.0, 203.0
+1049, 16.84, clever, clever, 0.0, 263.0
+1050, 16.82, ugly, ugly, 0.0, 264.0
+1051, 16.83, greedy, greedy, 0.0, 255.0
+1052, 16.81, beautiful, beautiful, 0.0, 334.0
+1053, 16.19, misfortune/ bad luck, misfortune/ bad luck, 0.0, 228.0
+1054, 9.28, tear, tear, 0.0, 288.0
+1055, 15.62, light (in color), light (in color), 0.0, 209.0
+1056, 12.32, low, low, 0.0, 241.0
+1057, 16.11, soul/ spirit, soul/ spirit, 0.0, 311.0
+1058, 12.61, wide/ broad, wide/ broad, 0.0, 276.0
+1059, 9.23, knife, knife, 0.0, 212.0
+1060, 9.22, cut, cut, 0.0, 348.0
+1061, 16.15, surprised/ astonished, surprised/ astonished, 0.0, 276.0
+1062, 18.19, howl, howl, 0.0, 213.0
+1063, 9.27, split, split, 0.0, 286.0
+1064, 9.26, break, break, 0.0, 335.0
+1065, 2.49, granddaughter, granddaughter, 0.0, 254.0
+1066, 4.843, cold (catarrh), cold (catarrh), 0.0, 234.0
+1067, 4.144, body hair, body hair, 1.0, 225.0
+1068, 4.145, pubic hair, pubic hair, 1.0, 189.0
+1069, 4.146, dandruff, dandruff, 1.0, 191.0
+1070, 4.142, beard, beard, 1.0, 235.0
+1071, 4.93, bald, bald, 0.0, 251.0
+1072, 4.92, lazy, lazy, 0.0, 274.0
+1073, 10.11, move, move, 0.0, 303.0
+1074, 10.17, twist, twist, 0.0, 299.0
+1075, 10.16, drop (vb), drop (vb), 0.0, 239.0
+1076, 10.15, roll, roll, 0.0, 259.0
+1077, 10.14, wind/ wrap, wind/ wrap, 0.0, 294.0
+1078, 4.99, naked/ bare, naked/ bare, 0.0, 272.0
+1079, 12.34, bottom, bottom, 0.0, 253.0
+1080, 4.94, lame, lame, 0.0, 255.0
+1081, 2.42, daughter, daughter, 0.0, 262.0
+1082, 9.48, saw, saw, 0.0, 191.0
+1083, 5.48, scrape, scrape, 0.0, 316.0
+1084, 9.18, chain, chain, 0.0, 194.0
+1085, 20.49, ambush, ambush, 0.0, 180.0
+1086, 18.12, sing, sing, 0.0, 257.0
+1087, 20.47, captive/ prisoner, captive/ prisoner, 0.0, 246.0
+1088, 20.46, surrender, surrender, 0.0, 173.0
+1089, 5.41, meal (a), meal (a), 0.0, 252.0
+1090, 20.44, defend, defend, 0.0, 214.0
+1091, 20.43, attack, attack, 0.0, 203.0
+1092, 5.46, peel, peel, 0.0, 293.0
+1093, 20.41, victory, victory, 0.0, 200.0
+1094, 5.44, dinner, dinner, 0.0, 171.0
+1095, 9.6, smith/ blacksmith, smith/ blacksmith, 0.0, 172.0
+1096, 20.36, tower, tower, 0.0, 141.0
+1097, 2.77, widower, widower, 0.0, 210.0
+1098, 4.56, spit, spit, 0.0, 302.0
+1099, 18.17, whistle, whistle, 0.0, 259.0
+1100, 20.31, armor (defensive), armor (defensive), 0.0, 157.0
+1101, 4.463, hip, hip, 1.0, 259.0
+1102, 4.462, waist, waist, 1.0, 228.0
+1103, 20.34, shield, shield, 0.0, 124.0
+1104, 20.35, fortress, fortress, 0.0, 164.0
+1105, 20.61, hunt, hunt, 0.0, 257.0
+1106, 4.345, claw, claw, 1.0, 237.0
+1107, 3.614, rabbit, rabbit, 0.0, 210.0
+1108, 2.44, brother, brother, 0.0, 247.0
+1109, 12.15, stand, stand, 0.0, 263.0
+1110, 12.14, lie down, lie down, 0.0, 288.0
+1111, 12.17, remains/ left overs, remains/ left overs, 0.0, 236.0
+1112, 12.16, remain/ stay, remain/ stay, 0.0, 273.0
+1113, 12.11, place, place, 0.0, 559.0
+1114, 12.13, sit, sit, 0.0, 268.0
+1115, 12.12, put, put, 0.0, 306.0
+1116, 17.42, cause, cause, 0.0, 248.0
+1117, 5.971, egg yolk, egg yolk, 0.0, 193.0
+1118, 5.38, knife, knife, 0.0, 219.0
+1119, 5.39, fork, fork, 0.0, 183.0
+1120, 5.36, saucer, saucer, 0.0, 180.0
+1121, 5.37, spoon, spoon, 0.0, 217.0
+1122, 5.34, pitcher/ jug, pitcher/ jug, 0.0, 288.0
+1123, 5.35, cup/ drinking vessel, cup/ drinking vessel, 0.0, 244.0
+1124, 8.57, flower, flower, 0.0, 248.0
+1125, 5.33, bowl, bowl, 0.0, 260.0
+1126, 8.55, branch, branch, 0.0, 275.0
+1127, 5.31, dish, dish, 0.0, 251.0
+1128, 8.72, tree stump, tree stump, 0.0, 224.0
+1129, 14.28, cease/ stop, cease/ stop, 0.0, 301.0
+1130, 14.29, ready, ready, 0.0, 226.0
+1131, 9.31, rub/ wipe, rub/ wipe, 0.0, 311.0
+1132, 12.82, circle, circle, 0.0, 242.0
+1133, 10.89, anchor, anchor, 0.0, 122.0
+1134, 4.209, chin, chin, 1.0, 226.0
+1135, 4.208, cheek, cheek, 1.0, 244.0
+1136, 10.64, lead (vb), lead (vb), 0.0, 254.0
+1137, 12.85, hole, hole, 0.0, 287.0
+1138, 4.203, brain, brain, 1.0, 256.0
+1139, 10.81, ship, ship, 0.0, 196.0
+1140, 4.201, side of head/ temple, side of head/ temple, 1.0, 177.0
+1141, 10.83, boat, boat, 0.0, 223.0
+1142, 4.207, jaw, jaw, 1.0, 251.0
+1143, 10.85, oar, oar, 0.0, 166.0
+1144, 4.205, forehead, forehead, 1.0, 244.0
+1145, 10.87, mast, mast, 0.0, 128.0
+1146, 8.81, palm tree, palm tree, 0.0, 180.0
+1147, 6.59, veil, veil, 0.0, 135.0
+1148, 6.58, glove, glove, 0.0, 160.0
+1149, 6.55, hat/ cap, hat/ cap, 0.0, 288.0
+1150, 6.54, shoemaker/ cobbler, shoemaker/ cobbler, 0.0, 159.0
+1151, 6.57, belt/ girdle, belt/ girdle, 0.0, 263.0
+1152, 21.25, oath, oath, 0.0, 155.0
+1153, 6.51, shoe, shoe, 0.0, 232.0
+1154, 6.52, boot, boot, 0.0, 181.0
+1155, 2.74, stepdaughter, stepdaughter, 0.0, 175.0
+1156, 13.0, zero/ nothing, zero/ nothing, 0.0, 213.0
+1157, 2.82, family, family, 0.0, 213.0
+1158, 21.42, murder, murder, 0.0, 228.0
+1159, 2.81, relatives/ kinsmen, relatives/ kinsmen, 0.0, 257.0
+1160, 21.43, adultery, adultery, 0.0, 179.0
+1161, 18.211, stutter/ stammer, stutter/ stammer, 0.0, 227.0
+1162, 2.454, older sister, older sister, 0.0, 228.0
+1163, 1.343, headland/ point, headland/ point, 0.0, 129.0
+1164, 2.456, sibling, sibling, 0.0, 218.0
+1165, 19.61, custom, custom, 0.0, 252.0
+1166, 13.44, three times, three times, 0.0, 208.0
+1167, 19.63, conspiracy/ plot, conspiracy/ plot, 0.0, 169.0
+1168, 19.62, strife/ quarrel, strife/ quarrel, 0.0, 315.0
+1169, 11.65, pay (vb), pay (vb), 0.0, 229.0
+1170, 11.64, debt, debt, 0.0, 198.0
+1171, 2.522, father's sister, father's sister, 0.0, 217.0
+1172, 11.66, account/ reckoning, account/ reckoning, 0.0, 187.0
+1173, 4.841, fever, fever, 0.0, 258.0
+1174, 21.46, arson, arson, 0.0, 145.0
+1175, 11.63, owe, owe, 0.0, 186.0
+1176, 11.62, borrow, borrow, 0.0, 219.0
+1177, 4.76, kill, kill, 0.0, 282.0
+1178, 13.33, alone/ only, alone/ only, 0.0, 391.0
+1179, 1.86, light/ kindle/ ignite, light/ kindle/ ignite, 0.0, 311.0
+1180, 5.92, wine, wine, 0.0, 162.0
+1181, 1.1, world, world, 0.0, 240.0
+1182, 14.75, spring, spring, 0.0, 174.0
+1183, 8.15, cultivate/ till, cultivate/ till, 0.0, 242.0
+1184, 6.96, mirror, mirror, 0.0, 201.0
+1185, 11.86, store/ shop, store/ shop, 0.0, 226.0
+1186, 8.26, fork, fork, 0.0, 189.0
+1187, 7.31, fireplace, fireplace, 0.0, 212.0
+1188, 8.24, shovel, shovel, 0.0, 222.0
+1189, 8.25, hoe, hoe, 0.0, 191.0
+1190, 8.22, dig, dig, 0.0, 283.0
+1191, 8.23, spade, spade, 0.0, 194.0
+1192, 7.37, ladder, ladder, 0.0, 223.0
+1193, 4.41, breast (of woman), breast (of woman), 1.0, 275.0
+1194, 14.61, week, week, 0.0, 173.0
+1195, 15.89, wrinkled, wrinkled, 0.0, 250.0
+1196, 15.88, dirty/ soiled, dirty/ soiled, 0.0, 319.0
+1197, 15.83, wet/ damp, wet/ damp, 0.0, 336.0
+1198, 15.82, light (in weight), light (in weight), 0.0, 234.0
+1199, 5.32, plate, plate, 0.0, 229.0
+1200, 15.87, clean, clean, 0.0, 263.0
+1201, 15.86, cold, cold, 0.0, 286.0
+1202, 15.85, hot, hot, 0.0, 303.0
+1203, 15.84, dry, dry, 0.0, 280.0
+1204, 1.21, earth/ land, earth/ land, 0.0, 315.0
+1205, 11.43, money, money, 0.0, 233.0
+1206, 1.23, plain/ field, plain/ field, 0.0, 349.0
+1207, 16.25, laugh, laugh, 0.0, 255.0
+1208, 1.25, island, island, 0.0, 219.0
+1209, 1.24, valley, valley, 0.0, 227.0
+1210, 1.27, shore, shore, 0.0, 332.0
+1211, 1.26, mainland, mainland, 0.0, 149.0
+1212, 1.28, cave, cave, 0.0, 256.0
+1213, 9.211, pound with fist, pound with fist, 0.0, 225.0
+1214, 5.28, pan, pan, 0.0, 193.0
+1215, 15.76, rough, rough, 0.0, 252.0
+1216, 15.77, smooth, smooth, 0.0, 264.0
+1217, 15.74, hard, hard, 0.0, 268.0
+1218, 15.75, soft, soft, 0.0, 286.0
+1219, 15.72, feel, feel, 0.0, 228.0
+1220, 3.591, bat, bat, 0.0, 231.0
+1221, 3.592, parrot, parrot, 0.0, 231.0
+1222, 17.31, remember, remember, 0.0, 266.0
+1223, 3.34, sow, sow, 0.0, 195.0
+1224, 3.35, pig, pig, 0.0, 228.0
+1225, 3.36, goat, goat, 0.0, 174.0
+1226, 3.37, he-goat, he-goat, 0.0, 155.0
+1227, 2.26, girl, girl, 0.0, 272.0
+1228, 15.78, sharp, sharp, 0.0, 286.0
+1229, 15.79, blunt/ dull, blunt/ dull, 0.0, 237.0
+1230, 18.44, threaten, threaten, 0.0, 194.0
+1231, 18.45, boast, boast, 0.0, 232.0
+1232, 21.21, plaintiff, plaintiff, 0.0, 141.0
+1233, 18.41, call (=summon), call (=summon), 0.0, 272.0
+1234, 18.42, call (=name), call (=name), 0.0, 242.0
+1235, 18.43, announce, announce, 0.0, 246.0
+1236, 16.54, danger, danger, 0.0, 209.0
+1237, 9.88, paint (noun), paint (noun), 0.0, 240.0
+1238, 16.51, dare, dare, 0.0, 191.0
+1239, 14.67, Friday, Friday, 0.0, 161.0
+1240, 16.53, fear/ fright, fear/ fright, 0.0, 328.0
+1241, 16.52, brave, brave, 0.0, 279.0
+1242, 9.29, flay/ skin, flay/ skin, 0.0, 248.0
+1243, 14.62, Sunday, Sunday, 0.0, 184.0
+1244, 4.73, pregnant, pregnant, 0.0, 282.0
+1245, 14.44, morning, morning, 0.0, 225.0
+1246, 16.18, good fortune/ luck, good fortune/ luck, 0.0, 231.0
+1247, 11.85, market (place), market (place), 0.0, 181.0
+1248, 10.615, carry-underarm, carry-underarm, 0.0, 168.0
+1249, 4.57, vomit, vomit, 0.0, 290.0
+1250, 3.653, fishscale, fishscale, 0.0, 192.0
+1251, 4.55, perspire, perspire, 0.0, 246.0
+1252, 4.54, sneeze, sneeze, 0.0, 231.0
+1253, 4.53, cough, cough, 0.0, 243.0
+1254, 4.52, yawn/ gape, yawn/ gape, 0.0, 237.0
+1255, 4.51, breathe/ breath, breathe/ breath, 0.0, 320.0
+1256, 5.86, milk (noun), milk (noun), 0.0, 227.0
+1257, 14.64, Tuesday, Tuesday, 0.0, 159.0
+1258, 5.85, sugar, sugar, 0.0, 169.0
+1259, 4.59, lick, lick, 0.0, 238.0
+1260, 4.58, bite, bite, 0.0, 277.0
+1261, 13.34, first, first, 0.0, 278.0
+1262, 13.35, last, last, 0.0, 257.0
+1263, 13.36, second, second, 0.0, 201.0
+1264, 13.37, pair, pair, 0.0, 245.0
+1265, 21.44, rape, rape, 0.0, 190.0
+1266, 1.342, reef, reef, 0.0, 104.0
+1267, 1.341, lagoon, lagoon, 0.0, 143.0
+1268, 1.33, lake, lake, 0.0, 240.0
+1269, 4.857, pus, pus, 0.0, 232.0
+1270, 13.38, two times, two times, 0.0, 232.0
+1271, 5.82, pepper, pepper, 0.0, 175.0
+1272, 9.21, strike (hit/ beat), strike (hit/ beat), 0.0, 365.0
+1273, 17.32, forget, forget, 0.0, 252.0
+1274, 1.31, water, water, 0.0, 250.0
+1275, 17.34, clear/ plain, clear/ plain, 0.0, 271.0
+1276, 17.35, obscure, obscure, 0.0, 196.0
+1277, 17.36, secret, secret, 0.0, 222.0
+1278, 17.37, sure/ certain, sure/ certain, 0.0, 247.0
+1279, 10.351, dive, dive, 0.0, 220.0
+1280, 3.652, fin (dorsal), fin (dorsal), 0.0, 169.0
+1281, 10.352, splash, splash, 0.0, 237.0
+1282, 3.655, shell, shell, 0.0, 226.0
+1283, 3.654, gill, gill, 0.0, 150.0
