@@ -5,7 +5,7 @@ import codecs
 
 NODES_HEADERS = ["@Concept: #id", "key", "label", "concept", "body_part", "frequency"]
 
-EDGES_HEADERS = ["_Edge:", "languages", "families", "weight"]
+EDGES_HEADERS = ["_Edge:", "languages", "families", "weight", "width"]
 
 
 
@@ -23,11 +23,13 @@ if __name__ == "__main__":
             f.write(", ".join(line))
             f.write("\n")
     with codecs.open(edges_file, "w", "utf-8") as f:
+        f.write("& https://raw.githubusercontent.com/padagraph/Clics/master/nodes.csv\n")
         f.write(", ".join(EDGES_HEADERS))
         f.write("\n")
         for e in g.es():
             src = str(g.vs[e.source]['id'])
             tgt = str(g.vs[e.target]['id'])
+            e['width'] = int(e['weight'])
             line = src + " -- " + tgt + ", " + (", ".join([str(e[x]) for x in EDGES_HEADERS[1:]])) + "\n"
             f.write(line)
 
